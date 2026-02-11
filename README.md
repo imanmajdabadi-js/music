@@ -7,7 +7,7 @@ A web-based music player demonstrating component-based architecture and React st
 - Play / Pause audio
 - Next / Previous track navigation
 - Playlist with active track highlighting
-- Progress bar with seek functionality
+- Progress bar
 - Responsive user interface
 
 ## Tech Stack
